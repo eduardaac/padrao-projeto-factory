@@ -26,7 +26,7 @@ O objetivo é simular serviços como **corte de cabelo, depilação, sobrancelha
 
 ## 📌 Diagrama de Classes
 
-![Diagrama UML](diagrama_servicos_simplificado.png)
+![Diagrama UML](diagrama_de classes.png)
 
 ---
 
