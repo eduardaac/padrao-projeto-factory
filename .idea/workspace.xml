@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="323993ed-78c9-4886-8003-27afffde52d8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33NonD8zuA1JHkBWXWzHIdYmgIL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.ServicoCorteTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServicoDepilacaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServicoFactoryTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServicoFactoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServicoFormaturaTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServicoSobrancelhaTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServicoUnhasTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduar/Downloads/padroes-projeto-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="padroescriacao.factorymethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ServicoCorteTest">
+    <configuration name="ServicoCorteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroesprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescriacao.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescriacao.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="padroescriacao.factorymethod.ServicoCorteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicoDepilacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroesprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescriacao.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescriacao.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="padroescriacao.factorymethod.ServicoDepilacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicoFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroesprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescriacao.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescriacao.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="padroescriacao.factorymethod.ServicoFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicoSobrancelhaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroesprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescriacao.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescriacao.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="padroescriacao.factorymethod.ServicoSobrancelhaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicoUnhasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroesprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescriacao.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescriacao.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="padroescriacao.factorymethod.ServicoUnhasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServicoCorteTest" />
+        <item itemvalue="JUnit.ServicoUnhasTest" />
+        <item itemvalue="JUnit.ServicoSobrancelhaTest" />
+        <item itemvalue="JUnit.ServicoDepilacaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="323993ed-78c9-4886-8003-27afffde52d8" name="Changes" comment="" />
+      <created>1759167057149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759167057149</updated>
+      <workItem from="1759167058495" duration="2216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
