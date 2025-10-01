@@ -5,17 +5,6 @@ O objetivo é simular serviços como **corte de cabelo, depilação, sobrancelha
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📌 Classes de Testes:
-- ✂️ **`ServicoCorteTest.java`** → Testes do serviço de corte de cabelo  
-- 🪒 **`ServicoDepilacaoTest.java`** → Testes do serviço de depilação  
-- 🏭 **`ServicoFactoryTest.java`** → Testes do padrão *Factory* para criação de serviços  
-- 👁️ **`ServicoSobrancelhaTest.java`** → Testes do serviço de sobrancelha  
-- 💅 **`ServicoUnhasTest.java`** → Testes do serviço de unhas  
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - ☕ **Java 11+**  
