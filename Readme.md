@@ -6,7 +6,7 @@ O objetivo é simular o agendamento de serviços como **corte de cabelo, depila�
 ---
 ## 📌 Diagrama de Classes
 
-![Diagrama UML](diagrama_de_classes.png)
+![Diagrama UML](diagrama_de_classes.jpg)
 
 ---
 
